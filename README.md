@@ -1,4 +1,4 @@
-# Store-Data-Analysis-Dashboard-Using-Excel
+# Excel-Retail-Sales-Dashboard
 Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 
 ## Project Objective
