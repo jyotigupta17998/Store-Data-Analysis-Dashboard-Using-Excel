@@ -1,110 +1,97 @@
-Excel Retail Sales Dashboard (Vrinda Store Data Analysis)
-
+# **Excel Retail Sales Dashboard (Vrinda Store Data Analysis)**  
 Interactive Sales & Customer Insights Dashboard using Microsoft Excel
 
-1. Project Objective
+---
 
-The goal of this project is to analyze Vrinda Store's 2024 retail sales data to identify customer behavior patterns, high-performing regions, and channel effectiveness.
-The insights enable the store owner to design targeted strategies to increase sales in 2025.
+## **1. Project Objective**
+Analyze Vrinda Store’s **2024 sales performance** to identify customer behavior patterns, top-performing regions, and effective sales channels.  
+Insights from this dashboard will assist the business owner in designing **targeted strategies to increase revenue in 2025**.
 
-2. Dataset
+---
 
-OneDrive Source:
-https://1drv.ms/x/s!AogpGWxjxRAZhyDsrNj3bKwvLDEV?e=dFjbcX
+## **2. Dataset**
+- **OneDrive Source:**  
+  https://1drv.ms/x/s!AogpGWxjxRAZhyDsrNj3bKwvLDEV?e=dFjbcX
 
-GitHub Dataset:
-https://github.com/jyotigupta17998/Excel-Retail-Sales-Dashboard/blob/main/data/raw/Vrinda%20Store%20Data%20Analysis.xlsx
+- **GitHub Dataset:**  
+  https://github.com/jyotigupta17998/Excel-Retail-Sales-Dashboard/blob/main/dashboard/Vrinda%20Store%20Data%20Analysis.xlsx
 
-Dataset Size: 25,000+ rows
-Key Fields: Order Date, Status, Amount, Gender, Age Group, State, Sales Channel, Category
+**Dataset Size:** 25,000+ rows  
+**Key Fields:** Order Date, Status, Sales Amount, Gender, Age Group, State, Channel, Category
 
-3. Key Business Questions (KPIs)
+---
 
-This analysis answers the following:
+## **3. Key Business Questions (KPIs)**
 
-Monthly trend of Sales vs Orders
+This dashboard answers:
 
-Highest revenue-generating month
+- Monthly trend of **Sales vs Orders**
+- Which **month** generated the highest revenue
+- Purchase behavior by **Gender (Men vs Women)**
+- Contribution of different **Age Groups**
+- Breakdown of **Order Status**
+- **Top 10 states** contributing to sales
+- Relationship between **Age × Gender**
+- Contribution of **Sales Channels** (Amazon, Flipkart, Myntra, etc.)
+- Best-selling **Product Categories**
+- **% Orders Delivered** successfully
 
-Gender-based purchase behavior
+---
 
-Age-group contribution
+## **4. Process & Methodology**
 
-Order status breakdown
+### **Data Cleaning**
+- Cleaned and transformed raw data using **Power Query**
+- Applied Excel functions: **XLOOKUP, COUNTIFS, IF, TEXT**
+- Standardized inconsistent values and corrected formats
+- Checked for missing data and removed duplicates
 
-Top 10 revenue-generating states
+### **Analysis**
+- Built KPIs using **Pivot Tables**
+- Visualized trends with **Pivot Charts**
+- Used **Slicers** and **Timeline Filters** for dynamic interaction
 
-Age × Gender relationship
+### **Dashboard Development**
+- Combined visual elements into a unified interactive dashboard
+- Added KPIs for **Total Sales**, **Order Count**, and **Delivery Rate**
+- Linked slicers across all charts for seamless filtering
 
-Top-performing sales channels (Amazon, Flipkart, Myntra)
+---
 
-Best-selling product categories
+## **5. Dashboard Preview**
 
-Successful delivery rate (% Orders Delivered)
+![Dashboard](dashboard/Dashboard_Screenshot.png)
 
-Dashboard Preview:
-(Replace link with your file path)
+---
 
-4. Process & Methodology
-Data Cleaning
+## **6. Key Insights**
 
-Cleaned data using Power Query, XLOOKUP, COUNTIFS, IF
+- Women contribute **~65%** of total purchases  
+- Adults aged **30–49** generate nearly **50%** of all orders  
+- **Maharashtra, Karnataka, Uttar Pradesh** are top-performing states  
+- **Amazon, Flipkart, Myntra** are the most effective sales channels  
+- Over **90%** of orders were successfully delivered  
 
-Standardized column values and formats
+---
 
-Ensured correct data types and removed duplicates
+## **7. Recommendations**
 
-Analysis
+To increase sales in 2025:
 
-Created multiple KPIs using pivot tables
+- Run targeted campaigns for **women aged 30–49**
+- Focus marketing efforts in **Maharashtra, Karnataka, Uttar Pradesh**
+- Strengthen promotions on **Amazon, Flipkart, Myntra**
+- Promote best-selling categories via bundled and seasonal offers
 
-Built Pivot Charts for trends, segments, and channel performance
+---
 
-Used slicers and timeline filters for interaction
+## **8. Tools Used**
+- Microsoft Excel  
+- Power Query  
+- Pivot Tables & Pivot Charts  
+- Slicers & Timeline  
+- Advanced Excel Formulas  
 
-Dashboard Development
+---
 
-Combined all pivots into a unified dashboard
-
-Added KPIs for Orders, Sales, Delivery %
-
-Linked slicers to multiple charts
-
-5. Dashboard
-
-(Add your screenshot using:
-![Dashboard](dashboard/Dashboard_Screenshot.png) )
-
-6. Key Insights
-
-Women contribute ~65% of total sales
-
-Adults (30–49) generate nearly 50% of all orders
-
-Maharashtra, Karnataka, Uttar Pradesh are the strongest markets
-
-Amazon, Flipkart, Myntra dominate sales channels
-
-90%+ orders delivered successfully
-
-7. Recommendations
-
-Target women aged 30–49 with focused promotions
-
-Strengthen marketing in top-performing states
-
-Increase visibility on Amazon, Flipkart, Myntra
-
-Promote best-selling categories with bundles/offers
-
-8. Tools Used
-
-Excel
-
-Power Query
-
-Pivot Tables & Pivot Charts
-
-Slicers & Timelines
-
-Advanced Excel Functions
+## **9. Project Structure**
