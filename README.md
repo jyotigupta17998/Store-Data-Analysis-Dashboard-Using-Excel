@@ -94,6 +94,9 @@ This dashboard answers the following questions:
 
 ## **5. Dashboard Preview**
 
+## 📄 Download Full Project Report (PDF)
+[**Download Project Report**](docs/Jyoti_Gupta_Portfolio_Project_Report.pdf)
+
 ![Dashboard](https://github.com/jyotigupta17998/Store-Data-Analysis-Dashboard-Using-Excel/blob/main/dashboard/Dashboard_Screenshot.png)
 
 ---
