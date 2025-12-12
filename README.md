@@ -142,3 +142,7 @@ To drive sales growth in **2025**, the following actions are recommended:
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
+---
+**Maintained by:** Jyoti Gupta  
+For hiring inquiries: Open to Data Analyst / Business Analyst roles
+
