@@ -15,6 +15,8 @@ A complete end-to-end retail analytics project showcasing data cleaning, KPI cre
 ![Visualization](https://img.shields.io/badge/Visualization-Pivot%20Charts-9333EA?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Interactive](https://img.shields.io/badge/Interactive-Slicers%20%26%20Timeline-F97316?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Project](https://img.shields.io/badge/Project-Retail%20Sales%20Analysis-000000?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-000000?style=for-the-badge)
+
 
 ---
 
@@ -136,4 +138,7 @@ To drive sales growth in **2025**, the following actions are recommended:
 
 ## **9. Project Structure**
 
+
+## License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
