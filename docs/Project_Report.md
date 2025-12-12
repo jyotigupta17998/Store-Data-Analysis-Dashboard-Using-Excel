@@ -20,10 +20,17 @@ Analyze Vrinda Store’s 2024 sales to:
 
 ---
 
-## 2. Files & dataset
-- **Raw data:** `../data/raw/Vrinda_Store_Raw_Data.xlsx`  
-- **Cleaned / dashboard workbook:** `../data/cleaned/Vrinda_Store_Cleaned_Data.xlsx` **or** `../dashboard/Vrinda_Store_Analysis_Dashboard.xlsx`  
-- **Dashboard preview:** `../dashboard/Dashboard_Screenshot.png`
+## 2. Files & Dataset
+
+- **Raw dataset:**  
+  https://github.com/jyotigupta17998/Store-Data-Analysis-Dashboard-Using-Excel/blob/main/data/raw/Vrinda_Store_Raw_Data.xlsx
+
+- **Cleaned / Dashboard Workbook:**  
+  https://github.com/jyotigupta17998/Store-Data-Analysis-Dashboard-Using-Excel/blob/main/dashboard/Vrinda%20Store%20Data%20Analysis.xlsx
+
+- **Dashboard Preview Image:**  
+  https://github.com/jyotigupta17998/Store-Data-Analysis-Dashboard-Using-Excel/blob/main/dashboard/Dashboard_Screenshot.png
+
 
 **Dataset size:** ~**25,000** transactions  
 **Primary fields:** Order Date, Order ID, Amount, Gender, Age/Age Group, State, Channel, Category, Order Status
