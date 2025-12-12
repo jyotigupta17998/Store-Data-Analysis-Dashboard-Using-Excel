@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/github_banner_vrinda.png" alt="Retail Sales Dashboard Banner" width="100%">
+</p>
+
 # **Excel Retail Sales Dashboard — Vrinda Store (2024 Analysis)**  
 Interactive Sales & Customer Insights Dashboard built using Microsoft Excel  
 A complete end-to-end retail analytics project showcasing data cleaning, KPI creation, and dashboard design.
@@ -128,3 +132,5 @@ To drive sales growth in **2025**, the following actions are recommended:
 ---
 
 ## **9. Project Structure**
+
+
