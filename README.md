@@ -2,7 +2,7 @@
   <img src="docs/github_banner_vrinda.png" alt="Retail Sales Dashboard Banner" width="100%">
 </p>
 
-# **Excel Retail Sales Dashboard — Vrinda Store (2024 Analysis)**  
+# **Excel Retail Sales Dashboard — Vrinda Store (2024 Analysis)**
 Interactive Sales & Customer Insights Dashboard built using Microsoft Excel  
 A complete end-to-end retail analytics project showcasing data cleaning, KPI creation, and dashboard design.
 
@@ -17,28 +17,27 @@ A complete end-to-end retail analytics project showcasing data cleaning, KPI cre
 ![Project](https://img.shields.io/badge/Project-Retail%20Sales%20Analysis-000000?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-000000?style=for-the-badge)
 
-
 ---
 
 ## **Table of Contents**
-1. [Project Objective](#1-project-objective)  
-2. [Dataset](#2-dataset)  
-3. [Key Business Questions (KPIs)](#3-key-business-questions-kpis)  
-4. [Process & Methodology](#4-process--methodology)  
-5. [Dashboard Preview](#5-dashboard-preview)  
-6. [Key Insights](#6-key-insights)  
-7. [Recommendations](#7-recommendations)  
-8. [Tools Used](#8-tools-used)  
+1. [Project Objective](#1-project-objective)
+2. [Dataset](#2-dataset)
+3. [Key Business Questions (KPIs)](#3-key-business-questions-kpis)
+4. [Process & Methodology](#4-process--methodology)
+5. [Dashboard Preview](#5-dashboard-preview)
+6. [Key Insights](#6-key-insights)
+7. [Recommendations](#7-recommendations)
+8. [Tools Used](#8-tools-used)
 9. [Project Structure](#9-project-structure)
 
 ---
 
 ## **1. Project Objective**
-This project analyzes Vrinda Store’s **2024 retail sales performance** to identify:
-- Customer purchasing behavior  
-- High-value customer segments  
-- Top performing states and sales channels  
-- Operational performance based on delivery outcomes  
+This project analyzes Vrinda Store's **2024 retail sales performance** to identify:
+- Customer purchasing behavior
+- High-value customer segments
+- Top performing states and sales channels
+- Operational performance based on delivery outcomes
 
 The goal is to provide **data-backed recommendations** that support targeted marketing, inventory planning, and revenue growth for **2025**.
 
@@ -46,29 +45,29 @@ The goal is to provide **data-backed recommendations** that support targeted mar
 
 ## **2. Dataset**
 
-- **Raw Dataset (GitHub):**  
-  https://github.com/jyotigupta17998/Store-Data-Analysis-Dashboard-Using-Excel/blob/main/data/raw/Vrinda_Store_Raw_Data.xlsx  
+- **Raw Dataset (GitHub):**
+  https://github.com/jyotigupta17998/Store-Data-Analysis-Dashboard-Using-Excel/blob/main/data/raw/Vrinda_Store_Raw_Data.xlsx
 
-- **Dashboard Workbook (Cleaned Data + KPIs):**  
-  https://github.com/jyotigupta17998/Store-Data-Analysis-Dashboard-Using-Excel/blob/main/dashboard/Vrinda_Store_Analysis_Dashboard.xlsx  
+- **Dashboard Workbook (Cleaned Data + KPIs):**
+  https://github.com/jyotigupta17998/Store-Data-Analysis-Dashboard-Using-Excel/blob/main/dashboard/Vrinda_Store_Analysis_Dashboard.xlsx
 
 **Dataset Size:** 25,000+ retail transactions  
-**Key Fields:** Order Date, Status, Amount, Gender, Age Group, State, Channel, Category  
+**Key Fields:** Order Date, Status, Amount, Gender, Age Group, State, Channel, Category
 
 ---
 
-## **3. Key Business Questions (KPIs)**  
+## **3. Key Business Questions (KPIs)**
 This dashboard answers the following questions:
 
-- What is the monthly trend for **Sales vs Order Volume**?  
-- Which month generated the **highest revenue**?  
-- Who purchased more — **Men or Women**?  
-- Which **age group** contributed the most?  
-- What is the breakdown of **Order Status**?  
-- Which **top states** drive the highest revenue?  
-- What is the relationship between **Age × Gender**?  
-- Which **sales channels** contribute most (Amazon, Flipkart, Myntra, etc.)?  
-- Which **product categories** perform best?  
+- What is the monthly trend for **Sales vs Order Volume**?
+- Which month generated the **highest revenue**?
+- Who purchased more — **Men or Women**?
+- Which **age group** contributed the most?
+- What is the breakdown of **Order Status**?
+- Which **top states** drive the highest revenue?
+- What is the relationship between **Age × Gender**?
+- Which **sales channels** contribute most (Amazon, Flipkart, Myntra, etc.)?
+- Which **product categories** perform best?
 - What percentage of orders were **delivered successfully**?
 
 ---
@@ -76,40 +75,42 @@ This dashboard answers the following questions:
 ## **4. Process & Methodology**
 
 ### **Data Cleaning (Power Query + Excel)**
-- Standardized inconsistent values, formats, and data types  
-- Fixed date formats and created derived fields (Month, Year, Age Group)  
-- Removed duplicates and validated missing entries  
-- Applied transformation logic using **Power Query**  
+- Standardized inconsistent values, formats, and data types
+- Fixed date formats and created derived fields (Month, Year, Age Group)
+- Removed duplicates and validated missing entries
+- Applied transformation logic using **Power Query**
 
 ### **Analysis (Pivot Tables & Calculated KPIs)**
-- Built metrics for sales, order count, contribution %, delivery rate  
-- Used pivot tables to segment data by gender, age, states, and categories  
-- Created trend, distribution, and contribution visuals  
+- Built metrics for sales, order count, contribution %, delivery rate
+- Used pivot tables to segment data by gender, age, states, and categories
+- Created trend, distribution, and contribution visuals
 
 ### **Dashboard Development**
-- Designed a unified Excel dashboard containing all KPIs  
-- Added interactive **Slicers** (Channel, Category, Gender)  
-- Added **Timeline Filter** for month-wise drilldown  
-- Ensured clean, professional layout for business presentation  
+- Designed a unified Excel dashboard containing all KPIs
+- Added interactive **Slicers** (Channel, Category, Gender)
+- Added **Timeline Filter** for month-wise drilldown
+- Ensured clean, professional layout for business presentation
 
 ---
 
 ## **5. Dashboard Preview**
 
-## 📄 Download Full Project Report (PDF)
+### 📄 Download Full Project Report (PDF)
 [**Download Project Report**](docs/Jyoti_Gupta_Portfolio_Project_Report.pdf)
 
-![Dashboard](https://github.com/jyotigupta17998/Store-Data-Analysis-Dashboard-Using-Excel/blob/main/dashboard/Dashboard_Screenshot.png)
+![Dashboard](https://raw.githubusercontent.com/jyotigupta17998/Store-Data-Analysis-Dashboard-Using-Excel/main/dashboard/Dashboard_Screenshot.png)
 
 ---
 
 ## **6. Key Insights**
 
-- Women contribute **~65%** of total sales  
-- Age group **30–49** generates nearly **50%** of all orders  
-- **Maharashtra, Karnataka, Uttar Pradesh** are top-performing states  
-- **Amazon (35%)**, **Flipkart (22%)**, and **Myntra (23%)** drive majority of orders  
-- Over **90%** of orders were successfully delivered  
+| # | Insight | Data |
+|---|---------|------|
+| 1 | Women drive majority of purchases | ~65% of total sales |
+| 2 | Middle-aged customers are the core segment | Age 30–49 generates ~50% of all orders |
+| 3 | Three states dominate revenue | Maharashtra, Karnataka, Uttar Pradesh |
+| 4 | Amazon leads all sales channels | 35% of total orders |
+| 5 | Operational efficiency is strong | 90%+ successful delivery rate |
 
 These insights indicate strong customer concentration in specific demographics and regions, offering clear opportunities for targeted marketing.
 
@@ -119,30 +120,54 @@ These insights indicate strong customer concentration in specific demographics a
 
 To drive sales growth in **2025**, the following actions are recommended:
 
-1. **Target women aged 30–49** with personalized marketing campaigns  
-2. Prioritize advertising budgets in **Maharashtra, Karnataka, Uttar Pradesh**  
-3. Strengthen marketplace promotions on **Amazon, Flipkart, and Myntra**  
-4. Introduce category-based bundle offers to increase AOV  
-5. Review cancellation/return cases to improve operational efficiency  
+1. **Target women aged 30–49** with personalized marketing campaigns on Amazon, Flipkart, and Myntra
+2. **Prioritize ad budgets** in Maharashtra, Karnataka, and Uttar Pradesh — these 3 states likely represent the highest ROI
+3. **Strengthen marketplace promotions** on Amazon (35%) and Myntra (23%) during peak months
+4. **Introduce category-based bundle offers** to increase Average Order Value (AOV)
+5. **Review cancellation and return cases** to identify operational gaps and improve net revenue
 
 ---
 
 ## **8. Tools Used**
-- **Microsoft Excel**  
-- **Power Query**  
-- **Pivot Tables & Pivot Charts**  
-- **Slicers & Timeline Filters**  
-- **Advanced Excel Formulas (XLOOKUP, COUNTIFS, IF, TEXT)**  
+
+| Tool | Purpose |
+|------|---------|
+| Microsoft Excel | Primary analysis and dashboard tool |
+| Power Query | Data cleaning and transformation |
+| Pivot Tables & Charts | Aggregation and visualization |
+| Slicers & Timeline Filters | Interactive dashboard controls |
+| XLOOKUP, COUNTIFS, IF, TEXT | Advanced formula logic |
 
 ---
 
 ## **9. Project Structure**
 
-
-## License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+```
+Store-Data-Analysis-Dashboard-Using-Excel/
+│
+├── README.md
+├── LICENSE
+│
+├── data/
+│   └── raw/
+│       └── Vrinda_Store_Raw_Data.xlsx
+│
+├── dashboard/
+│   ├── Vrinda_Store_Analysis_Dashboard.xlsx
+│   └── Dashboard_Screenshot.png
+│
+└── docs/
+    ├── github_banner_vrinda.png
+    └── Jyoti_Gupta_Portfolio_Project_Report.pdf
+```
 
 ---
-**Maintained by:** Jyoti Gupta  
-For hiring inquiries: Open to Data Analyst / Business Analyst roles
 
+## **License**
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
+
+**Maintained by:** Jyoti Gupta  
+📧 Open to **Data Analyst / Business Analyst / MIS Analyst** roles  
+🔗 [LinkedIn](https://www.linkedin.com/in/jyoti-gupta--) · [GitHub](https://github.com/jyotigupta17998)
